@@ -1,0 +1,3 @@
+# excursion
+
+Codecademy excursion project
