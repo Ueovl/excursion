@@ -1,3 +1,3 @@
 # excursion
 
-Codecademy excursion project
+Codecademy excursion practice project
